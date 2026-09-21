@@ -1,3 +1,9 @@
+gpm (1.20.7-9deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 14:55:25 +0800
+
 gpm (1.20.7-9) unstable; urgency=medium
 
   [ Axel Beckert ]
